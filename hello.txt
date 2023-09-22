@@ -1,1 +1,4 @@
-hello world
+Hai Ges aku Septian
+aku sedang belajar Git
+Semoga aku jadi hebat
+MANTAP
